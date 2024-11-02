@@ -9,7 +9,7 @@ export function Footer() {
           <span className="text-2xl font-bold">Kaushik Energy</span>
         </div>
         <div className="text-center md:text-right">
-          <p>© 2024 Kaushik Energy. All rights reserved.</p>
+          <p>© 2024 Kaushik Energy and vaibhav2195.  All rights reserved.</p>
           <p className="text-gray-400">Powering a sustainable future</p>
         </div>
       </div>
